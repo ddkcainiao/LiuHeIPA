@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.v4a4fc.liuhe</string>
+				<string>com.v4a4fc.liuheTest</string>
 				<key>bundle-version</key>
-				<string>5.8</string>
+				<string>5.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>六合聊吧</string>
+				<string>六合测试</string>
 			</dict>
 		</dict>
 	</array>
